@@ -1,5 +1,5 @@
 /**
- * This class also contains the solution for Worksheet2
+ * This class also contains the solutions for Worksheet2.
  * 
  * @author William Downs
  * @version 21/01/16
